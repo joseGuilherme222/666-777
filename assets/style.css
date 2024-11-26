@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+   background-color: #144480;
     font-family: Bai Jamjuree;
 }
 
@@ -50,7 +50,7 @@ body {
     padding: 2rem;
     margin-top: 4rem;
     font-size: 1.4vw;
-}
+}assets/style.css
 
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
@@ -97,7 +97,7 @@ footer p {
 }
 
 @media (max-width: 560px) {
-    
+    assets/style.css
     body {
         background: url('img/bg-mobile.webp'), no-repeat cover;
     }
